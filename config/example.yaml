@@ -1,0 +1,9 @@
+api_key: "govee-api-key"
+
+devices:
+  bedroom:
+    id: "device-id"
+    model: "model-num"
+  desk:
+    id: "device-id"
+    model: "model-num"
